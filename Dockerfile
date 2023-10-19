@@ -1,4 +1,4 @@
-FROM centos:stream9-minimal
+FROM quay.io/centos/centos:stream9-minimal
 # FROM registry.redhat.io/ubi9-minimal:latest
 
 WORKDIR /app/wait
